@@ -22,15 +22,12 @@ The Maker Space SDG is sponsored by Innovation & Economic Development and suppor
 * [Mailing List Subscription Page](http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb)
 
 # Contact
+
 ## Location
 Maker Space SDG
-
 Building 24
-
 Innovation Cluster
-
 Thuwal 23955-6900
-
 Saudi Arabia
 
 ## Phone
