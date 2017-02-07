@@ -1,5 +1,3 @@
-# Welcome to the Maker Space SDG
-
 # Vision and Mission
 We get people together that like to play with technology and tinker with DIY projects.
 We are building a place and a community for people to...
@@ -18,17 +16,22 @@ We're working on getting a maker space setup at KAUST.
 # Acknowledgements
 The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST schools.
 
+# Social Media
+* [Public Webpage (this one): https://peterrautek.github.io/MakerSpace/](https://peterrautek.github.io/MakerSpace/)
+* [Facebook Page](https://www.facebook.com/MakerSpaceSDG/)
+* [Mailing List Subscription Page](http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb)
+
 # Contact
 ## Location
 Maker Space SDG
-Building 24
-Innovation Cluster
-Thuwal 23955-6900
-Saudi Arabia
-## Phone
-0966544700776
 
-# Social Media
-* [Public Webpage (this one): https://peterrautek.github.io/MakerSpace/](https://peterrautek.github.io/MakerSpace/)
-* [Facebook Page: https://www.facebook.com/MakerSpaceSDG/](https://www.facebook.com/MakerSpaceSDG/)
-* [Mailing List Subscription Page: http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb](http://facebook.us13.list-manage.com/subscribe?u=e4c161b70aea7a53d9c9c1c54&id=a21fb611fb)
+Building 24
+
+Innovation Cluster
+
+Thuwal 23955-6900
+
+Saudi Arabia
+
+## Phone
+Peter: 0966544700776
