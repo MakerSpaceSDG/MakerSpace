@@ -2,11 +2,11 @@
 We get people together that like to play with technology and tinker with DIY projects.
 We are building a place and a community for people to...
 
-* ...play
-* ...learn
-* ...tinker
-* ...innovate
-* ...make friends
+* play
+* learn
+* tinker
+* innovate
+* make friends
 
 # Information
 We're working on getting a maker space setup at KAUST. 
