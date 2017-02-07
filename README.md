@@ -22,8 +22,8 @@ We're working on getting a maker space setup at KAUST.
 
 <dl>
   <dt>Location</dt>
-  <dd>Maker Space SDG</dd>
-  <dd>Building 24</dd>
+  <dd>Maker Space SDG<br>
+  Building 24</dd>
   <dd>Innovation Cluster </dd>
   <dd>Thuwal 23955-6900 </dd>
   <dd>Saudi Arabia</dd>
