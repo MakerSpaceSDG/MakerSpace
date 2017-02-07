@@ -13,9 +13,6 @@ We're working on getting a maker space setup at KAUST.
 * If you want to get involved [drop us a line](mailto:peter.rautek@kaust.edu.sa).
 * If you want to know what we are working on, or request something the [issue tracker](https://github.com/peterrautek/MakerSpace/issues) might be the right thing for you.
 
-# Acknowledgements
-The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST schools.
-
 # Social Media
 * [Public Webpage (this one): https://peterrautek.github.io/MakerSpace/](https://peterrautek.github.io/MakerSpace/)
 * [Facebook Page](https://www.facebook.com/MakerSpaceSDG/)
@@ -23,12 +20,17 @@ The Maker Space SDG is sponsored by Innovation & Economic Development and suppor
 
 # Contact
 
-## Location
-Maker Space SDG
-Building 24
-Innovation Cluster
-Thuwal 23955-6900
-Saudi Arabia
+<dl>
+  <dt>Location</dt>
+  <dd>Maker Space SDG</dd>
+  <dd>Building 24</dd>
+  <dd>Innovation Cluster </dd>
+  <dd>Thuwal 23955-6900 </dd>
+  <dd>Saudi Arabia</dd>
+  <dt>Phone</dt>
+  <dd>Peter:  0966544700776</dd>
+</dl>
 
-## Phone
-Peter: 0966544700776
+
+# Acknowledgements
+The Maker Space SDG is sponsored by Innovation & Economic Development and supported by the Visual Computing Center, the Visualization Core Lab, IT, and the KAUST schools.
