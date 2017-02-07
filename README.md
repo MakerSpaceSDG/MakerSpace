@@ -23,13 +23,12 @@ We're working on getting a maker space setup at KAUST.
 # Contact
 
 <dl>
-
   <dt>Location</dt>
   <dd>Maker Space SDG<br>
   Building 24<br>
   Innovation Cluster<br>
   Thuwal 23955-6900<br>
-  Saudi Arabia
+  Saudi Arabia</dd>
   <dt>Phone</dt>
   <dd>Peter:  0966544700776</dd>
 </dl>
